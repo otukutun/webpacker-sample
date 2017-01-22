@@ -25,5 +25,15 @@
 </table>
 
 <br>
+<div id="vue_sample">
+  <ul>
+  <li v-for="todo in todos">
+    {{todo.body}}
+  </li>
+</ul>
+
+</div>
 
 <%= link_to 'New Post', new_post_path %>
+
+<%= javascript_pack_tag 'application' %>
