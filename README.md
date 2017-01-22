@@ -29,3 +29,6 @@ Things you may want to cover:
 $ bin/rails s
 $ bin/webpack-watcher
 ```
+
+## REF
+- https://github.com/gauravtiwari/rails-webpacker
