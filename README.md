@@ -22,3 +22,10 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+## 開発
+
+```
+$ bin/rails s
+$ bin/webpack-watcher
+```
